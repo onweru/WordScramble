@@ -13,6 +13,7 @@
 		044BC8E72407D8A00055109C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044BC8E62407D8A00055109C /* Assets.xcassets */; };
 		044BC8EA2407D8A00055109C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044BC8E92407D8A00055109C /* Preview Assets.xcassets */; };
 		044BC8ED2407D8A00055109C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044BC8EB2407D8A00055109C /* LaunchScreen.storyboard */; };
+		044BC8F52407E5950055109C /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 044BC8F42407E5950055109C /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		044BC8E92407D8A00055109C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		044BC8EC2407D8A00055109C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		044BC8EE2407D8A00055109C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		044BC8F42407E5950055109C /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../../Downloads/HackingWithSwift-master/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				044BC8E62407D8A00055109C /* Assets.xcassets */,
 				044BC8EB2407D8A00055109C /* LaunchScreen.storyboard */,
 				044BC8EE2407D8A00055109C /* Info.plist */,
+				044BC8F42407E5950055109C /* start.txt */,
 				044BC8E82407D8A00055109C /* Preview Content */,
 			);
 			path = WordScramble;
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				044BC8ED2407D8A00055109C /* LaunchScreen.storyboard in Resources */,
+				044BC8F52407E5950055109C /* start.txt in Resources */,
 				044BC8EA2407D8A00055109C /* Preview Assets.xcassets in Resources */,
 				044BC8E72407D8A00055109C /* Assets.xcassets in Resources */,
 			);
